@@ -1,8 +1,9 @@
+import Main from "./pages/Main";
 
 function App() {
   return (
-    <div className="text-[40px] text-[#445566] font-bold">
-      Hello Tailwind
+    <div className="">
+        <Main/>
     </div>
   );
 }

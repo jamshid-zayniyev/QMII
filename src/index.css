@@ -16,4 +16,7 @@ code {
     monospace;
 }
 
+.containerr{
+  @apply xl:px-[50px] lg:px-[30px] md:px-[20px] px-[15px]
+}
 
